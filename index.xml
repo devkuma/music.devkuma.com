@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search songs on Music</title>
+    <link>https://music.devkuma.com/</link>
+    <description>Recent content in Search songs on Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 25 Mar 2020 04:52:30 +0600</lastBuildDate><atom:link href="https://music.devkuma.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>린 - 시간을 거슬러</title>
+      <link>https://music.devkuma.com/songs/1/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://music.devkuma.com/songs/1/</guid>
+      <description>구름에 빛은 흐려지고
+창가에 요란히 내리는
+빗물소리 만큼 시린 기억들이
+내 마음 붙잡고 있는데
+갈수록 짙어져간
+그리움에 잠겨
+시간을 거슬러 갈 순 없나요
+그 때처럼만 그대 날 안아주면
+괜찮을텐데 이젠
+젖어든 빗길을 따라가
+함께한 추억을 돌아봐
+흐려진 빗물에 떠오른 그대가</description>
+    </item>
+    
+    <item>
+      <title>About Author</title>
+      <link>https://music.devkuma.com/author/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:31 +0600</pubDate>
+      
+      <guid>https://music.devkuma.com/author/</guid>
+      <description>I am John Doe. And I can confirm that this is the best theme ever!</description>
+    </item>
+    
+    <item>
+      <title>Admin Panel</title>
+      <link>https://music.devkuma.com/admin/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://music.devkuma.com/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Sections</title>
+      <link>https://music.devkuma.com/sections/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://music.devkuma.com/sections/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
