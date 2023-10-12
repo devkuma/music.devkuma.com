@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music – Jr.</title>
+    <link>https://music.devkuma.com/tags/jr./</link>
+    <image>
+      <url>https://music.devkuma.com/tags/jr./logo/180x180.jpg</url>
+      <title>Jr.</title>
+      <link>https://music.devkuma.com/tags/jr./</link>
+    </image>
+    <description>Recent content in Jr. on Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://music.devkuma.com/tags/jr./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
