@@ -166,7 +166,13 @@ summer&lt;/p&gt;
       <description>
         
         
-        &lt;p&gt;La la la&lt;br&gt;
+        
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MYdr8gPQKIk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;La la la&lt;br&gt;
 첨 맛보는 jelly pop&lt;br&gt;
 La la la&lt;br&gt;
 날 니 맘에 녹여 봐&lt;br&gt;

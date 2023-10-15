@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music – Ray Parker Jr.</title>
+    <link>https://music.devkuma.com/tags/ray-parker-jr./</link>
+    <image>
+      <url>https://music.devkuma.com/tags/ray-parker-jr./logo/180x180.jpg</url>
+      <title>Ray Parker Jr.</title>
+      <link>https://music.devkuma.com/tags/ray-parker-jr./</link>
+    </image>
+    <description>Recent content in Ray Parker Jr. on Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://music.devkuma.com/tags/ray-parker-jr./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
