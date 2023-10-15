@@ -28,7 +28,13 @@
       <description>
         
         
-        &lt;p&gt;더 멀리 갈까&lt;br&gt;
+        
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jZpr7hfeEVE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;더 멀리 갈까&lt;br&gt;
 더 많이 더 높이 쌓을까&lt;br&gt;
 나누던 꿈과&lt;br&gt;
 별처럼 흐르던 시간&lt;br&gt;
