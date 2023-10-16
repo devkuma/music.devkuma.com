@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music – Fun.</title>
+    <link>https://music.devkuma.com/tags/fun./</link>
+    <image>
+      <url>https://music.devkuma.com/tags/fun./logo/180x180.jpg</url>
+      <title>Fun.</title>
+      <link>https://music.devkuma.com/tags/fun./</link>
+    </image>
+    <description>Recent content in Fun. on Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://music.devkuma.com/tags/fun./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

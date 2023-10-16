@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music – melody.</title>
+    <link>https://music.devkuma.com/tags/melody./</link>
+    <image>
+      <url>https://music.devkuma.com/tags/melody./logo/180x180.jpg</url>
+      <title>melody.</title>
+      <link>https://music.devkuma.com/tags/melody./</link>
+    </image>
+    <description>Recent content in melody. on Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://music.devkuma.com/tags/melody./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
