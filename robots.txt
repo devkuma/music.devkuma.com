@@ -2,4 +2,4 @@ User-agent: *
 Allow: /en/
 Allow: /ko/
 
-Sitemap: https://toolkit.devkuma.com/sitemap.xml
+Sitemap: https://music.devkuma.com/sitemap.xml
