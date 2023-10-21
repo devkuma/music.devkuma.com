@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music – Vol.6</title>
+    <link>https://music.devkuma.com/tags/vol.6/</link>
+    <image>
+      <url>https://music.devkuma.com/tags/vol.6/logo/180x180.jpg</url>
+      <title>Vol.6</title>
+      <link>https://music.devkuma.com/tags/vol.6/</link>
+    </image>
+    <description>Recent content in Vol.6 on Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://music.devkuma.com/tags/vol.6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Vol.6 - TECHNO CLUB</title>
+      <link>https://music.devkuma.com/track/0056/974484d2/127ac2ce/</link>
+      <pubDate>Sun, 22 Oct 2023 02:28:10 +0900</pubDate>
+      
+      <guid>https://music.devkuma.com/track/0056/974484d2/127ac2ce/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Let&amp;rsquo;s Remix&lt;br&gt;
+Techno Club&lt;/p&gt;
+
+      </description>
+      
+      <category>Vol.6</category>
+      
+    </item>
+    
+  </channel>
+</rss>
