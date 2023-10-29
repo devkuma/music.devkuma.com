@@ -528,7 +528,13 @@
       <description>
         
         
-        &lt;p&gt;어제보다 더 나은 내일&lt;br&gt;
+        
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Bwdv5yCUy5w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;어제보다 더 나은 내일&lt;br&gt;
 현실에서 매일 난&lt;br&gt;
 시간에 베인 상처를 봐&lt;br&gt;
 깊게 패인 그들만의&lt;br&gt;
