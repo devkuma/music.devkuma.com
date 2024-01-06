@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://music.devkuma.com/sitemap-1.xml
-Sitemap: https://music.devkuma.com/sitemap-2.xml
+Sitemap: https://music.devkuma.com/sitemap.xml
